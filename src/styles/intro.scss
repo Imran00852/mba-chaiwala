@@ -1,0 +1,15 @@
+.intro {
+  height: calc(100vh - 50px);
+
+  video {
+    margin-top: -50px;
+    width: 100%;
+  }
+
+  div {
+    height: calc(100vh - 50px);
+    width: 100%;
+    position: absolute;
+    top: 0;
+  }
+}
